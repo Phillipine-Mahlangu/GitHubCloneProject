@@ -1,2 +1,2 @@
-Objective: Practice creating branches and resolving merge conflicts.
-Modification in main branch.
+# Objective: Practice Git Workflow
+This repository is for practicing branch creation, merging, and conflict resolution.
